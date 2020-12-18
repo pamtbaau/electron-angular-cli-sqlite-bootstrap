@@ -5,6 +5,7 @@
 - ng new
 - Copy code from former app
 - Upgrade to Angular 11
+- Upgrade other packages
 
 ## v1.0.2 (2020-10-08)
 

@@ -136,6 +136,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "electron-angular-starter-cli"
+    }
+  },
+  "defaultProject": "electron-angular-starter-cli",
+  "cli": {
+    "analytics": false
+  }
 }
