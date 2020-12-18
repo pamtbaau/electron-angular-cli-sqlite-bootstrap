@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import * as fs from 'fs';
 import * as path from 'path';
 
-// tslint:disable-next-line:no-implicit-dependencies
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { Menu, MenuItemConstructorOptions, OpenDialogOptions, remote, OpenDialogSyncOptions, SaveDialogSyncOptions } from 'electron';
 
 import { Hero } from './model/hero';
