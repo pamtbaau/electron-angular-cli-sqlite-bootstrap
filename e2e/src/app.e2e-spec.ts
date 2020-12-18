@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('electron-angular-starter-cli app is running!');
+    expect(page.getTitleText()).toEqual('electron-angular-cli-sqlite-bootstrap app is running!');
   });
 
   afterEach(async () => {

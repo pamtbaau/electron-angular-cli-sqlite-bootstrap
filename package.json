@@ -1,6 +1,6 @@
 {
-  "name": "angular-cli-electron-sqlite-bootstrap",
-  "productName": "Angular-cli-Electron-SQLite-Bootstrap",
+  "name": "electron-angular-cli-sqlite-bootstrap",
+  "productName": "Electron-Angular-cli-Sqlite-Bootstrap",
   "description": "An Electron application using Angular-cli, Sqlite and Bootstrap",
   "author": {
     "name": "pamtbaau"
