@@ -4,6 +4,7 @@
 #### Started with fresh install Angular:
 - ng new
 - Copy code from former app
+- Upgrade to Angular 11
 
 ## v1.0.2 (2020-10-08)
 
