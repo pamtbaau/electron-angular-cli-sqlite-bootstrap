@@ -1,3 +1,7 @@
+# Please do not use this starterkit. It is no longer maintained.
+<br />
+<br />
+
 # Sample application using Angular CLI 11+, Electron 11+, SQLite3 5+ and Bootstrap 4+
 
 This repository contains a simple Electron/Angular starter application, using Angular CLI 10+, Electron 10+, SQLite 5+, and Bootstrap 4+. It is very similar to the other [Electron/Angular starter](https://github.com/pamtbaau/electron-angular-sqlite-bootstrap-webpack) which does not use Angular CLI, and builds using Webpack.
